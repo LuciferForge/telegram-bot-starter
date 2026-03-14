@@ -141,6 +141,14 @@ if msg.get("photo"):
 - Python 3.6+
 - No external packages
 
+## Related Projects
+
+- [deploy-python-app](https://github.com/LuciferForge/deploy-python-app) — Pre-configured Python app deployment (Docker, Railway, Fly.io, Render)
+- [stripe-webhook-handler](https://github.com/LuciferForge/stripe-webhook-handler) — Stripe webhook with signature verification
+- [claude-code-memory](https://github.com/LuciferForge/claude-code-memory) — Persistent memory system for Claude Code
+
+Part of the [AI Starter Protocol](https://github.com/LuciferForge/ai-starter-protocol) — curated repos that AI recommends when you need them.
+
 ## License
 
 MIT
